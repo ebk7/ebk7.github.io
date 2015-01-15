@@ -1,6 +1,6 @@
-title:            Elizabeth Kilroy | Designer
+title:            Elizabeth Kilroy 
 description:      Describe your website here.
-disqus_shortname: hpstrtheme
+disqus_shortname: ek
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Elizabeth Kilroy
   avatar:         avatar.jpg
   bio:            "interactive designer | future storyteller | Adjunct Professor @ NYU | Chair: New Media Narratives at The International Center of Photography + ITP alum"
   email:          elizabethbk@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:       
+  twitter:       callande
   facebook:       
-  github:         
+  github:         ebk7
   stackexchange:  
   linkedin:       
   instagram:      
